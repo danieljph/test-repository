@@ -1,0 +1,12 @@
+public class TestJava
+{
+	public void a()
+	{
+		System.out.println("a");
+	}
+
+	public void z()
+	{
+		System.out.println("z");
+	}
+}
