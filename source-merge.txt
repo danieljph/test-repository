@@ -9,4 +9,9 @@ public class TestJava
 	{
 		System.out.println("z");
 	}
+
+	public void za()
+	{
+		System.out.println("za");
+	}
 }
